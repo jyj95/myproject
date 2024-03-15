@@ -8,5 +8,6 @@
 </head>
 <body>
 	main.jsp파일(user1)
+	main.jsp파일(user1)
 </body>
 </html>
